@@ -8,6 +8,7 @@
     width: 100%;
     max-width: 100%;
     margin: 0 auto;
+    margin-bottom: 2%;
 }
 
 .container-fluid {
@@ -28,6 +29,13 @@
 .box {
     background-color: rgb(23, 116, 255);
     border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.box-green {
+    background-color: rgba(77, 230, 64, 0.781);
     text-align: center;
     padding: 10px;
     color: white;
@@ -67,3 +75,4 @@
 .col-xs-offset-11 {margin-left: calc((100% / 12) * 11);}
 .col-xs-offset-12 {margin-left: calc((100% / 12) * 12);}
 
+/* col-xs-* (dispositivi extra small |  0 - 575px) */
