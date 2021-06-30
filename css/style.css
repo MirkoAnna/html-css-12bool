@@ -43,12 +43,21 @@
     text-align: center;
     padding: 10px;
     color: white;
+    border: 1px solid rgb(23, 116, 255);
 }
 
 .box-2 {
     background-color: rgb(23, 116, 255);
     border: 1px solid white;
     padding: 20px;
+}
+
+.box-green-2 {
+    background-color: rgba(77, 230, 64, 0.781);
+    text-align: center;
+    padding: 18px;
+    color: white;
+    border: 1px solid rgb(23, 116, 255);
 }
 
 /* 12 System */
