@@ -8,7 +8,7 @@
     width: 100%;
     max-width: 100%;
     margin: 0 auto;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
 }
 
 .container-fluid {
@@ -41,8 +41,13 @@
     color: white;
 }
 
-/* 12 System */
+.box-2 {
+    background-color: rgb(23, 116, 255);
+    border: 1px solid white;
+    padding: 20px;
+}
 
+/* 12 System */
 .col-xs {
     flex-grow: 1;
     flex-basis: 0;
