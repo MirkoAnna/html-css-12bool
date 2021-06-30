@@ -22,6 +22,10 @@
     flex-wrap: wrap;
 }
 
+.center{
+    justify-content: center;
+}
+
 .row-2 {
     margin-right: 0;
 }
